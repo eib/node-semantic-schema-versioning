@@ -1,0 +1,17 @@
+{
+  "name": "node-schema-scaffolding",
+  "version": "1.0.0",
+  "description": "Node tooling for versioned schema deployments",
+  "main": "index.js",
+  "repository": "https://github.com/eib/node-schema-scaffolding.git",
+  "author": "Ethan Blackwelder <ethan.blackwelder@viterahealthcare.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "pg": "^7.2.0"
+  },
+  "dependencies": {
+    "commander": "^2.11.0",
+    "glob": "^7.1.2",
+    "mkdirp": "^0.5.1"
+  }
+}
